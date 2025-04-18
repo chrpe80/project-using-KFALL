@@ -14,8 +14,8 @@ I have taken task nr 30, "forward fall while walking caused by a trip" but you c
 
 I used KNeighborsClassifier from Scikit-learn and its standard implementation gave me great results for this dataset. With a gridsearch it became even better.
 
-## Implementation
+I will keep on experimenting with this.
 
-Could this kind of tech be used to create clothes that automatically detect when a fall is ongoing, that stiffens up in sensitive areas depending on what kind of fall it detects?
+## Implementation
 
 Sometimes elderly people are not able to tell what happened, with this tech it would perhaps be possible to save information on what kind of fall it was? This would be invaluable information when trying to prevent falls.
